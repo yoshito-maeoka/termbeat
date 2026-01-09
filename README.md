@@ -1,10 +1,10 @@
 # 🎵 Rust Rhythm Box
-
+```
  | |_ ___ _ __ _ __ ___ | |__   ___  __ _| |_ 
  | __/ _ \ '__| '_ ` _ \| '_ \ / _ \/ _` | __|
  | ||  __/ |  | | | | | | |_) |  __/ (_| | |_ 
   \__\___|_|  |_| |_| |_|_.__/ \___|\__,_|\__|
-
+```
 *** a spontaneous project driven by Claude ***
 
 A terminal-based rhythm sequencer and drum machine built with Rust. Create beats, compose patterns, and export your music directly from your terminal!
