@@ -1,0 +1,10 @@
+[package]
+name = "rhythm-box"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.26"
+crossterm = "0.27"
+cpal = "0.17.1"
+hound = "3.5.1"
